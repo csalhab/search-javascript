@@ -37,6 +37,8 @@ If element at middle is greater than x, then search in the left half of array by
 
 If element at middle is smaller x, then search in the right half of the array by calling the same function/recusion with the starting point of the array at middle+1.
 
+Big O (Time Complexity): O(logN)
+
 ---
 
 © 2021 All Rights Reserved.
